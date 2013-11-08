@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Cloud To Butt, XKCD Style",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces the text 'the cloud' with 'my butt,' along with word replacements from XKCD comic 1288.",
 	"content_scripts": 
 	[
 		{
