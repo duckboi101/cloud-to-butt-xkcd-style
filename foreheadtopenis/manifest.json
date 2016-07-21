@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Forehead to Penis",
+	"version": "1.0",
+	"description": "Replaces the text 'forehead' with 'penis' -- Fork of 'Cloud To Butt, XKCD Style' ",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
