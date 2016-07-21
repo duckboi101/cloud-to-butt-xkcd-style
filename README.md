@@ -1,25 +1,14 @@
-cloud-to-butt, xkcd style
+Forehead to Penis
 =============
 
-An edit of the [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension from [panicsteve](https://github.com/panicsteve) that replaces occurrences of 'the cloud' with 'my butt.' This version of the extension not only replaces that phrase, but also substitutes in phrases found in [XKCD comic 1288](http://xkcd.com/1288/).
-
+An edit of the [cloud-to-butt-xkcd-style](https://github.com/TandyQ/cloud-to-butt-xkcd-style) Chrome extension from [TandyQ](https://github.com/TandyQ) that replaces occurrences of 'forehead' with 'penis.' 
 [Direct download of crx file](https://github.com/TandyQ/cloud-to-butt/blob/master/CloudToButtXKCDStyle.crx?raw=true)
+
+
+Idea from [this](https://www.reddit.com/r/JacksFilms/comments/4tu7mk/what_jack_needs/) reddit post.
+
 
 Word Substitution List
 =============
 
-* the cloud → my butt
-* witnesses → these dudes I know
-* allegedly → kinda probably
-* new study → tumblr post
-* rebuild → avenge
-* space → spaaace
-* google glass → virtual boy
-* smartphone → pokédex
-* electric → atomic
-* senator → elf-lord
-* car → cat
-* election → eating contest
-* congressional leaders → river spirits
-* homeland security → homestar runner
-* could not be reached for comment → is guilty and everyone knows it
+* forehead → penis
